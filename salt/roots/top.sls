@@ -1,9 +1,6 @@
 base:
   '*':
     - common-tools
-    - httpd.apache
-    - dovecot.dovecot
-    - bind.bind
-    - db.mysql
-    - db.postgres
-    - supervisord.supervisord
+    - nodejs
+    - oracle-jdk8
+    - oracle-jdk8.env

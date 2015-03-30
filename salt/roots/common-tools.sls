@@ -3,10 +3,5 @@ common-packages:
     - names:
       - tmux
       - zsh
-      - python-pip
       - git
-      - fail2ban
-      - pptpd
-      - chkrootkit
-      - nagios-common
 
